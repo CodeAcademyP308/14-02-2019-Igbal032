@@ -1,0 +1,9 @@
+C:\Users\rufatfq\Desktop\Reflection\Cedvel\bin\Debug\Cedvel.exe.config
+C:\Users\rufatfq\Desktop\Reflection\Cedvel\bin\Debug\Cedvel.exe
+C:\Users\rufatfq\Desktop\Reflection\Cedvel\bin\Debug\Cedvel.pdb
+C:\Users\rufatfq\Desktop\Reflection\Cedvel\obj\Debug\Cedvel.Form1.resources
+C:\Users\rufatfq\Desktop\Reflection\Cedvel\obj\Debug\Cedvel.Properties.Resources.resources
+C:\Users\rufatfq\Desktop\Reflection\Cedvel\obj\Debug\Cedvel.csproj.GenerateResource.Cache
+C:\Users\rufatfq\Desktop\Reflection\Cedvel\obj\Debug\Cedvel.csproj.CoreCompileInputs.cache
+C:\Users\rufatfq\Desktop\Reflection\Cedvel\obj\Debug\Cedvel.exe
+C:\Users\rufatfq\Desktop\Reflection\Cedvel\obj\Debug\Cedvel.pdb
